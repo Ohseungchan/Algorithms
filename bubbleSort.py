@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*- 
+# 버블정렬 패스스루 1 회 반복 정렬 값
+# 버블정렬 패스스루 반복후 정렬 값
+
 def bubble_sort(list):
     unsorted_until_index = len(list) -1
     sorted = False
